@@ -6,3 +6,5 @@ __pycache__/
 # C extensions
 *.so
  "test": "ts-node ./src/adapters/test.ts",
+ "test-txs": "ts-node ./src/utils/testAdapterHistorical.ts"
+  },
