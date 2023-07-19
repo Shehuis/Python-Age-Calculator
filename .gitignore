@@ -8,3 +8,6 @@ __pycache__/
  "test": "ts-node ./src/adapters/test.ts",
  "test-txs": "ts-node ./src/utils/testAdapterHistorical.ts"
   },
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.101",
