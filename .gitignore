@@ -11,3 +11,4 @@ __pycache__/
   },
   "devDependencies": {
     "@types/aws-lambda": "^8.10.101",
+"@types/node": "^18.6.4",
