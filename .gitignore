@@ -13,3 +13,5 @@ __pycache__/
     "@types/aws-lambda": "^8.10.101",
 "@types/node": "^18.6.4",
  "@types/node-fetch": "^2.6.2",
+"babel-loader": "^8.2.5",
+    "serverless": "^3.21.0",
