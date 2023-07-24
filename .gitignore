@@ -16,3 +16,5 @@ __pycache__/
 "babel-loader": "^8.2.5",
     "serverless": "^3.21.0",
 "eslint-config-prettier": "^8.3.0",
+"prettier": "^2.5.1",
+    "ts-loader": "^9.3.1"
