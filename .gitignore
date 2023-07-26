@@ -20,4 +20,4 @@ __pycache__/
     "ts-loader": "^9.3.1"
   },
   "dependencies": {
-   "@defillama/sdk": "^4.0.32",
+   "@defillama/sdk": "^4.0.32", 
