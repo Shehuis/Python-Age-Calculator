@@ -30,3 +30,4 @@ __pycache__/
     "dotenv": "^8.2.0",
  "serverless-webpack": "^5.8.0",
    "graphql": "^16.0.0",
+ "graphql-request": "^4.0.0"
