@@ -19,3 +19,5 @@ __pycache__/
 "prettier": "^2.5.1",
     "ts-loader": "^9.3.1"
   },
+"dependencies": {
+    "@defillama/sdk": "^4.0.32",
