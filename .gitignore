@@ -31,3 +31,5 @@ __pycache__/
  "serverless-webpack": "^5.8.0",
     "graphql": "^16.0.0",
  "graphql-request": "^4.0.0"
+  }
+}
