@@ -18,3 +18,5 @@ __pycache__/
     "serverless-offline": "^9.1.6",
   "serverless-prune-plugin": "^2.0.1",
 	"eslint-config-prettier": "^8.3.0",
+"prettier": "^2.5.1",
+    "ts-loader": "^9.3.1"
