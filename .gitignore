@@ -16,3 +16,4 @@ __pycache__/
  "babel-loader": "^8.2.5",
    "serverless": "^3.21.0",
     "serverless-offline": "^9.1.6",
+ "serverless-prune-plugin": "^2.0.1",
