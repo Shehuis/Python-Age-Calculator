@@ -24,3 +24,5 @@ __pycache__/
   "dependencies": {
     "@defillama/sdk": "^4.0.32",
   "node-fetch": "^2.6.7",
+   "postgres": "^3.2.4",
+    "bignumber.js": "^9.0.1",
