@@ -15,3 +15,5 @@ __pycache__/
     "@types/node-fetch": "^2.6.2",
     "babel-loader": "^8.2.5",
  "eslint-config-prettier": "^8.3.0",
+"prettier": "^2.5.1",
+    "serverless": "^3.21.0",
