@@ -19,3 +19,7 @@ __pycache__/
     "serverless": "^3.21.0",
  "serverless-offline": "^9.1.6",
     "serverless-prune-plugin": "^2.0.1",
+ "ts-loader": "^9.3.1"
+  },
+  "dependencies": {
+    "@defillama/sdk": "^4.0.64",
